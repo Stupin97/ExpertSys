@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpertSystem", "ExpertSystem\ExpertSystem.csproj", "{BE8A6745-5A12-44DC-B4DF-461D3DAD863C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE8A6745-5A12-44DC-B4DF-461D3DAD863C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8A6745-5A12-44DC-B4DF-461D3DAD863C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8A6745-5A12-44DC-B4DF-461D3DAD863C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8A6745-5A12-44DC-B4DF-461D3DAD863C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F45FAA0-4BBD-49E9-B70D-ED12E8919F98}
+	EndGlobalSection
+EndGlobal
